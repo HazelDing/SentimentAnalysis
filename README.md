@@ -3,6 +3,7 @@
 Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative, or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback and understand customer needs.
 
 Business Insights:
+
 The analysis above generated numerous insights related to the emotional tone expressed in the text data. Three main insights are:
 1. The dataset contains reviews of different topics, such as, food, movies, phone, headset, and other products.
 2. The frequent occurrence of positive terms such as "phone," "food," and "service," as well as the prevalence of negative expressions like "bad," "worst," and "disappointed," serves as valuable indicators for investigating product and service quality. These commonly used words not only offer insights into customer sentiments but also pinpoint specific areas that may necessitate attention or improvement.
