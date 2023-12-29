@@ -1,9 +1,9 @@
 # Sentiment Analysis
-I Project Review:
+I. Project Review:
 
 Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative, or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback and understand customer needs. The project is devided into two parts: part one conducts data analysis using R, and part two fits machine learning models and analyzes why the models make false prdictions as well. 
 
-II Project Sections:
+II. Project Sections:
 
 Part One: data analysis using R
 
