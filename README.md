@@ -41,3 +41,31 @@ V. Recommendations
 2. Consider implementing a customer loyalty program or offering incentives for customers who leave positive reviews. This can encourage more satisfied customers to share their positive experiences.
 3. Keep an eye on reviews of competitors in the same industry. Understanding what customers appreciate or dislike about similar products/services can provide insights for differentiation and improvement.
 
+VI. Visualization
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/77fe6d56-a337-4b6f-9c91-9612b83166de)
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/1bfd1c54-723c-4af5-89ad-b5192fe73e4c)
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/5cce46e0-f685-4055-bfb1-e925ad508432)
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/aec4b447-3f3d-41a5-b3a3-8c2e3bc446f9)
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/cf582a20-826b-4b19-a84d-1db253971ae3)
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/22b16c29-468e-4d4e-b3fd-0c4e57647158)
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/dfbbcd51-3d2f-4872-b341-e381fff55c31)
+
+![image](https://github.com/HazelDing/SentimentAnalysis/assets/149340952/440f011c-18d5-4e8b-91e7-97d5a59d88db)
+
+
+
+
+
+
+
+
+
+
+
